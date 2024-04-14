@@ -30,6 +30,8 @@ The container will have the project root directory mounted to `/workdir` inside,
 so you can access all the data in the folder from within the container. Files saved
 inside `/workdir` will be saved to your host machine.
 
+You can develop inside the container with your favorite editor or IDE
+(e.g., VS Code or PyCharm) and run the code from within the container.
 
 ## Pre-commit hooks
 
